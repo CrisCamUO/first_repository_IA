@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+
+    background-color: aquamarine;/*Color de fondo*/
+    color:darkslategray /*Color del texto*/
+}
+h1{
+    background-color: lightpink;
+    color: rebeccapurple;
+}
+div{
+    max-width: 600px;
+}
